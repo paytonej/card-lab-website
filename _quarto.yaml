@@ -1,0 +1,100 @@
+project:
+  type: website
+  output-dir: docs
+  # pre-render: people-action.ipynb
+
+execute:
+  echo: false  # Hide all code by default
+  warning: false # Hide all warnings
+  message: false # Hide all messages
+  error: false   # Hide all errors
+  jupyter: card-lab
+  freeze: auto
+
+website:
+  title: "Critical Alloy Research & Discovery Lab"
+  favicon: files/site/3-clubs-favicon-r.png
+  open-graph: true
+  
+  navbar:
+    logo: files/brand/uc_white.png
+    logo-alt: "University of Cincinnati Logo"
+    logo-href: https://www.uc.edu
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: people/current.qmd
+        text: People
+      - href: research/workproducts.qmd
+        text: Work Products
+      - href: capabilities/index.qmd
+        text: Capabilities
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
+			
+  sidebar:
+    - title: "People"
+      style: "docked"
+      contents: 
+        - href: people/current.qmd
+        - people/alumni.qmd
+        - people/demographics.ipynb
+        - href: people/slideshow.qmd
+          text: "Photo Slideshow"
+        - href: people/timeline.ipynb
+          text: "Group Timeline"
+        - href: people/principal-investigator.qmd
+          text: "About the PI"
+      background: light
+      logo: files/site/fluent--people-community-48-regular-ucred.svg
+      border: true
+    - title: "Research"
+      style: "docked"
+      contents:
+        - research/workproducts.qmd
+        - research/scientometrics.ipynb
+      background: light
+      logo: files/site/hugeicons--elearning-exchange-48-ucred.svg
+      border: true
+    - title: "Capabilities"
+      style: "docked"
+      contents: 
+        - capabilities/index.qmd
+      background: light
+      logo: files/site/game-icons--materials-science.svg
+      border: true
+				
+  page-footer:
+    background: primary
+    right: 
+      - text: "© {{< meta date >}} Eric J Payton | "
+      - text: Impressum
+        href: impressum.qmd
+ 
+    left: 
+      - text: "{{< iconify game-icons card-jack-diamonds >}}{{< iconify game-icons card-ace-spades >}}{{< iconify game-icons card-9-diamonds >}}"
+        href: easteregg.qmd
+      - text: "{{< iconify academicons zotero-square >}}"
+        href: https://www.zotero.org/groups/5985739/uc_card_lab/
+        target: _blank
+      - text: "{{< iconify uiw github >}}"
+        href: https://github.com/paytonej
+        target: _blank
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    email-obfuscation: javascript
+    description-meta: "The Critical Alloy Research & Discovery Lab (CARD Lab) at the University of Cincinnati develops and designs metallic materials critical for future economic and energy security."
+    lang: en
+    date: last-modified

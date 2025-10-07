@@ -1,0 +1,36 @@
+---
+title: "Ananth Balasubramanian"
+categories: ["PhD - Primary Advisee"]
+author: Since
+date: 2024-08-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/ananthbala95
+    - text: "![](https://flagcdn.com/in.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Republic_of_India
+
+---
+
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. Balasubramanian, &#x201C;SPG-8: Multi-Modal and Multi-Material Metal Additive Manufacturing - A Review,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. Balasubramanian, &#x201C;Microstructural Characterization and Mechanical Behavior of Ti6Al4V After Hybrid Directed Energy Deposition (DED) - Wrought Processing,&#x201D; presented at the MS&amp;T25: Materials Science &amp; Technology, Columbus, OH, USA, Sept. 30, 2025. [Online]. Available: https://www.matscitech.org/mst25</div>
+  </div>
+</div>
+```
+
+

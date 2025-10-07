@@ -1,0 +1,16 @@
+---
+title: "Pandat 2025"
+categories: [software, CALPHAD, "449 Mantei Center"]
+---
+
+Pandat 2025 CALPHAD software with PanPython
+
+Databases
+--------|-----|
+PanAl   | 2024|
+PanNi   |     |
+PanHEA  |     |
+PanRHEA |     |
+
+
+

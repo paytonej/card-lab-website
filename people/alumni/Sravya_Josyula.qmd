@@ -1,0 +1,81 @@
+---
+title: "Sravya Josyula"
+categories: ["PhD - Primary Advisee"]
+date: 2025-05-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/sravyajosyula
+    - text: "{{< iconify simple-icons orcid >}}"
+      url: https://orcid.org/0009-0001-6998-0559
+
+---
+
+
+# Thesis/Dissertation
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Josyula, &#x201C;CALPHAD and Machine Learning Driven Design of High-Temperature Shape Memory Alloys,&#x201D; PhD Dissertation, University of Cincinnati, Cincinnati, OH, USA, 2025. [Online]. Available: http://rave.ohiolink.edu/etdc/view?acc_num=ucin1747651904213303</div>
+  </div>
+</div>
+```
+
+# Publications
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Josyula, Y. Noiman, E. Payton, and T. Giovannelli, &#x201C;Comparison of derivative-free and gradient-based minimization for multi-objective compositional design of shape memory alloys,&#x201D; <i>Computational Materials Science</i>, vol. in press, Oct. 2025, [Online]. Available: https://arxiv.org/abs/2508.14127</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze <i>et al.</i>, &#x201C;Microstructural, oxidation, and mechanical behavior of NbTi-based refractory alloys with 5 to 10 pct Co, Cr, and Ni additions,&#x201D; <i>Metall Mater Trans A</i>, vol. 56, no. 4, pp. 1150&#x2013;1170, Apr. 2025, doi: 10.1007/s11661-025-07705-8.</div>
+  </div>
+</div>
+```
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Josyula, &#x201C;Fabricating Nitinol Microtubes via Gas-Phase Alloying: A Computational and Experimental Feasibility Study,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 04, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">R. Kumar, &#x201C;Thermal, Electrical, and Magnetic Properties of Multi-Principal Element Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[3]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, &#x201C;Effects of Laser Shock Peening Surface Modification on Oxidation Behavior of NbTi-X Refractory Complex Concentrated Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[4]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. T. Oriola, &#x201C;Additive manufacturing feasibility of MoNbTi Refractory Complex Concentrated Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[5]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, &#x201C;Laser Shock Peening Surface Modification Effects on Microstructure and Oxidation Behavior of NbTiCoCrNi Refractory Complex Concentrated Alloys,&#x201D; presented at the High Entropy Alloys 2023, Pittsburgh, PA, Nov. 13, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[6]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. T. Oriola, &#x201C;Additive manufacturing feasibility of refractory high entropy alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 07, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[7]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Y. Noiman, &#x201C;Comparison of derivative-free and gradient-based minimization for multi-objective compositional design of shape memory alloys,&#x201D; presented at the MS&amp;T25: Materials Science &amp; Technology, Columbus, OH, USA, Sept. 30, 2025.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[8]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ocheize, &#x201C;Influence of Co, Cr, and Ni Alloying Elements on the Microstructural, Oxidation and Mechanical behavior of NbTi-Based Alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[9]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">V. Oruganti, &#x201C;SPG-50: Phase field modelling of microtubes formation in NiTi shape memory alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+</div>
+```
+
+

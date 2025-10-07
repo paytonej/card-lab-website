@@ -1,0 +1,33 @@
+---
+title: "Yateendra Guthula"
+categories: ["MS - Secondary Advisee"]
+author: Since
+date: 2025-05-01 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/venkata-yateendra-guthula-8833881b9
+    - text: "![](https://flagcdn.com/in.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Republic_of_India
+
+---
+
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">E. J. Payton, &#x201C;Improving the constitutive modeling of AA2618 through strain rate jump testing and parameter optimization,&#x201D; presented at the The Minerals Metals and Materials Society 2026 Annual Meeting and Exhibition, San Diego, CA, Mar. 2026. [Online]. Available: https://www.tms.org/TMS2026/</div>
+  </div>
+</div>
+```
+
+

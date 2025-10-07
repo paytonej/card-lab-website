@@ -1,0 +1,45 @@
+---
+title: "Alice Oladipo"
+categories: ["MS - Primary Advisee"]
+author: Since
+date: 2025-05-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/Alice_Oladipo.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/Alice_Oladipo.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/ayobamialiceoladipo
+    - text: "{{< iconify simple-icons orcid >}}"
+      url: https://orcid.org/0009-0007-0684-174X
+    - text: "![](https://flagcdn.com/us.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/United_States_of_America
+    - text: "![](https://flagcdn.com/ng.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Federal_Republic_of_Nigeria
+    - text: "![](https://flagcdn.com/us-oh.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Ohio
+
+---
+
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. A. Oladipo, &#x201C;SPG-44: Effect of Texture on Residual Stress Induced during Surface Modification in Ti6Al4V Rolled Plate,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. Balasubramanian, &#x201C;Microstructural Characterization and Mechanical Behavior of Ti6Al4V After Hybrid Directed Energy Deposition (DED) - Wrought Processing,&#x201D; presented at the MS&amp;T25: Materials Science &amp; Technology, Columbus, OH, USA, Sept. 30, 2025. [Online]. Available: https://www.matscitech.org/mst25</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[3]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. A. Oladipo, &#x201C;Forensic Metallurgy of Pipeline Steel Thermal Histories - Prospects through EBSD Characterization,&#x201D; presented at the MS&amp;T25: Materials Science &amp; Technology, Columbus, OH, USA, Sept. 30, 2025. [Online]. Available: https://www.matscitech.org/mst25</div>
+  </div>
+</div>
+```
+
+

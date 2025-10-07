@@ -1,0 +1,25 @@
+color:
+  palette:
+    # UC Primary Colors
+    uc_red: "#e00122"
+    black: "#000000"
+    white: "#ffffff"
+    # Secondary Colors
+    uc_dark_red: "#b8011c"
+    uc_grey: "#f3f3f3"
+    # Extended Palette
+    calhoun_maroon: "#890519"
+  background: white
+  foreground: black
+  primary: uc_red
+
+logo: 
+  medium: files/brand/uc_white.png
+  large: files/brand/uc_large.svg
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+  base: Open Sans
+  headings: Open Sans

@@ -1,0 +1,48 @@
+---
+title: "Phillisity Neal"
+categories: ["BS - Research Volunteer"]
+date: 2024-12-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/phillisity-neal-636bb8283
+
+---
+
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">J. Acosta, &#x201C;Toward tailoring properties of thin nanocrystals for high-speed electronic devices of the future,&#x201D; presented at the AFRL Summer Visitor Research Exhibition, Wright-Patterson AFB, OH, Aug. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">P. C. Neal, &#x201C;What MXenes can be made by chemical vapor deposition?,&#x201D; presented at the 2023 Annual Louis Stokes Midwestern Research Center of Excellence, Oak Brook, IL, Nov. 04, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[3]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">E. J. Payton, &#x201C;Chemical vapor deposition synthesis of 2D refractory metal carbides,&#x201D; presented at the The Minerals Metals and Materials Society Annual Meeting and Exhibition 2024, Orlando, FL, Mar. 04, 2024.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[4]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">E. J. Payton, &#x201C;Experimental and thermodynamic analysis of CVD-based MXene synthesis,&#x201D; presented at the The Minerals Metals and Materials Society 2026 Annual Meeting and Exhibition, San Diego, CA, Mar. 2026. [Online]. Available: https://www.tms.org/TMS2026/</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[5]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">O. C. Obioha, &#x201C;SPG-45: Improved Constitutive Descriptions of the Flow Behavior of Aluminum Alloy 2618,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[6]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Hasan, &#x201C;SPG-63: X-Ray Diffraction Analysis of the Effect of Hydrogen and Methane Partial Pressures on the Chemical Vapor Deposition Synthesis of Refractory Metal Carbides,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[7]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Hasan, &#x201C;Comparison of thermodynamic prediction with experimental observations of refractory metal carbides synthesized using CVD,&#x201D; presented at the MS&amp;T25: Materials Science &amp; Technology, Columbus, OH, USA, Oct. 01, 2025. [Online]. Available: https://www.matscitech.org/mst25</div>
+  </div>
+</div>
+```
+
+

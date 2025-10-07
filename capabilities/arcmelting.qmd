@@ -1,0 +1,8 @@
+---
+title: "Arc 200 Melter"
+categories: [equipment, "primary processing", "449 Mantei Center"]
+---
+
+Arcast 200 vacuum arc melter with continuous material feeding unit, tilt-pour casting, 800A power supply, turbo-pump, electromagnetic stirring, and free-fall gas atomization unit.
+
+

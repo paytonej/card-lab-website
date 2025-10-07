@@ -1,0 +1,171 @@
+---
+title: "Critical Alloy Research & Discovery Lab Timeline Slideshow"
+format:
+  revealjs:
+    transition: fade
+    auto-slide: 3500
+    smaller: true
+    loop: true
+    fig-align: center
+    center: true
+    pagetitle: "CARD Lab Timeline in Photos"
+    title-slide: false
+jupyter: card-lab
+---
+
+```{python}
+#| output: false
+#| echo: false
+#| eval: true
+%conda install -y xattr
+
+# Copy MacOS Finder comments to image captions using exiftool
+# This requires exiftool, which you can get by 'brew install exiftool'
+
+import subprocess
+from pathlib import Path
+import xattr
+import plistlib
+
+IMAGE_DIR = Path("Research_Group/")
+FINDER_COMMENT_ATTR = "com.apple.metadata:kMDItemFinderComment"
+SUPPORTED_EXTENSIONS = [".jpg", ".jpeg", ".png", ".tif", ".tiff"]
+
+def get_finder_comment(file_path):
+    try:
+        raw = xattr.getxattr(file_path, FINDER_COMMENT_ATTR)
+        comment = plistlib.loads(raw)
+        return comment
+    except Exception:
+        return None
+
+def write_caption_with_exiftool(image_path, comment):
+    if not comment:
+        print(f"No comment for: {image_path.name}")
+        return
+    try:
+        subprocess.run([
+            "exiftool",
+            f"-IPTC:Caption-Abstract={comment}",
+            f"-XMP-dc:Description={comment}",
+            "-overwrite_original",
+            str(image_path)
+        ], check=True)
+        print(f"Updated: {image_path.name}")
+    except subprocess.CalledProcessError as e:
+        print(f"Error updating {image_path.name}: {e}")
+
+def main():
+    for img_path in IMAGE_DIR.rglob("*"):
+        if img_path.suffix.lower() in SUPPORTED_EXTENSIONS:
+            comment = get_finder_comment(str(img_path))
+            write_caption_with_exiftool(img_path, comment)
+
+if __name__ == "__main__":
+    main()
+```
+
+
+```{python}
+#| echo: false
+#| eval: true
+#| output: asis
+
+import os
+from pathlib import Path
+from datetime import datetime
+from PIL import Image
+from PIL.ExifTags import TAGS
+import json
+import subprocess
+
+# Supported image extensions
+IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.tif', '.tiff',
+                     '.gif', '.bmp', '.heic']
+
+def get_exif_data(image_path):
+    """Extract EXIF metadata from an image, return as a dict."""
+    exif_data = {}
+    try:
+        with Image.open(image_path) as img:
+            info = img._getexif()
+            if info:
+                for tag, value in info.items():
+                    tag_name = TAGS.get(tag, tag)
+                    exif_data[tag_name] = value
+    except Exception as e:
+        print(f"Warning: Couldn't read EXIF data from {image_path}: {e}")
+    return exif_data
+
+def get_exif_metadata_caption(image_path):
+    result = subprocess.run(
+        ['exiftool', '-j', '-XMP-dc:Description', '-IPTC:Caption-Abstract', image_path],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+    if result.returncode != 0:
+        raise RuntimeError(result.stderr)
+
+    data = json.loads(result.stdout)[0]
+    xmp = data.get("Description")
+    iptc = data.get("Caption-Abstract")
+
+    return xmp.strip() if xmp else (iptc.strip() if iptc else None)
+
+def get_caption(image_path):
+    """Construct a caption from EXIF metadata or file creation time."""
+    exif = get_exif_data(image_path)
+    comment = get_exif_metadata_caption(image_path)
+
+    date = exif.get("DateTimeOriginal", "") or exif.get("DateTime", "")
+    # Fallback to filesystem timestamp if no EXIF date is available
+    if not date:
+        stat = os.stat(image_path)
+        date = datetime.fromtimestamp(stat.st_ctime).strftime("%Y-%m-%d %H:%M:%S")
+    
+    # Parse to datetime object
+    try:
+        dt = datetime.strptime(date, "%Y:%m:%d %H:%M:%S")
+    except:
+        dt = datetime.strptime(date, "%Y-%m-%d %H:%M:%S")
+
+    # Prettier format
+    formatted_date = dt.strftime("%A, %B %d, %Y")
+
+    # Convert bytes to string if needed
+    if isinstance(comment, bytes):
+        try:
+            comment = comment.decode('utf-8', errors='ignore')
+        except:
+            comment = ""
+
+    caption_parts = []
+    if formatted_date:
+        caption_parts.append(f"*{formatted_date}*")
+    if comment:
+        caption_parts.append(comment.strip())
+
+    return " -- ".join(caption_parts)
+
+def generate_markdown(images):
+    """Generate markdown content with figures."""
+    lines = ['']
+    for img_path in images:
+        rel_path = img_path.relative_to(IMAGE_DIR)
+        title = str(rel_path).split('.')[0]
+        title = title[10:]
+        caption = get_caption(img_path)
+        lines.append(f":::{{.center style=\"text-align: center;\"}}\n## {title}\n\n![{caption}]({IMAGE_DIR}{os.sep}{rel_path})\n:::\n")
+    return "\n".join(lines)
+
+
+images = sorted([
+    p for p in IMAGE_DIR.rglob("*")
+    if p.suffix.lower() in IMAGE_EXTENSIONS
+], reverse=True)
+
+markdown = generate_markdown(images)
+
+print(markdown)
+```

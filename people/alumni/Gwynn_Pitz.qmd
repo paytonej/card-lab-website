@@ -1,0 +1,19 @@
+---
+title: "Gwynn Pitz"
+categories: ["BS - Experiential Exploration Program Researcher (Full-Time for Credit)"]
+date: 2025-05-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/gwynn-pitz-9a017a2b8
+
+---
+
+
+

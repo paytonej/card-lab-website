@@ -1,0 +1,63 @@
+---
+title: "Impressum"
+sidebar: false
+toc: false
+code-fold: true
+execute:
+  echo: false
+  jupyter: card-lab
+author:
+  name: 
+    given: Eric J.
+    family: Payton
+    degrees: PhD
+  affiliation: Department of Mechanical and Materials Engineering, College of Engineering and Applied Science, University of Cincinnati
+  email: paytonej@ucmail.uc.edu
+  orcid: "0000-0001-7478-9372"
+---
+
+
+| Website URL   | https://homepages.uc.edu/~paytonej                |
+|---------------|---------------------------------------------------|
+| Organization  | Critical Alloy Research & Discovery Laboratory    |
+|               | Department of Mechanical and Materials Engineering|
+|               | College of Engineering and Applied Science        |
+|               | University of Cincinnati                          |
+| Address       | 2901 Woodside Drive                               |
+|               | CEAS MME - Rhodes Hall 504                        |
+|               | Cincinnati, OH 45221-0072 USA                     |
+| Contact       | Eric J. Payton                                    |
+| Tel:          | +1 513 556 0260                                   |
+| Fax:          | +1 513 556 3390                                   |
+| E-mail:       | paytonej[at]ucmail.uc.edu                         |
+
+
+```{python}
+!conda install -y folium
+import folium
+
+# Create a base map centered around the marker
+m = folium.Map(location=[39.13324581054433, -84.51601752153941], zoom_start=6)
+
+# Add a marker
+folium.Marker(location=[39.13324581054433, -84.51601752153941]).add_to(m)
+
+# Display map
+m
+```
+
+```{=html}
+<br><br>
+```
+
+This website was created using [Quarto](https://quarto.org) and is hosted at [https://homepages.uc.edu/~paytonej](https://homepages.uc.edu/~paytonej/). [This domain](https://net.educause.edu/whois.htm) is owned and operated by [The University of Cincinnati](https://en.wikipedia.org/wiki/University_of_Cincinnati), the second largest university in the state of Ohio, USA. The University of Cincinnati is a public research university founded in 1819 and is part of the [University System of Ohio](https://highered.ohio.gov). The University of Cincinnati is located at 2600 Clifton Ave, Cincinnati, OH 45221.
+
+---
+
+Other tools used for documenting, visualizing, and communicating the work in the CARD lab include:
+
+::: {style="text-align: center"}
+
+[{{< iconify academicons zotero-square >}}](https://www.zotero.org/) [{{< iconify simple-icons rstudioide >}}](https://posit.co/products/open-source/rstudio/) [{{< iconify simple-icons spyderide>}}](https://www.spyder-ide.org) [{{< iconify mdi microsoft-visual-studio-code >}}](https://code.visualstudio.com) [{{< iconify uiw github >}}](https://github.com) [{{< iconify fontisto sourcetree>}}](https://www.sourcetreeapp.com) [{{< iconify gravityui logo-macos >}}](https://en.wikipedia.org/wiki/MacOS) [{{< iconify simple-icons anaconda >}}](https://anaconda.org)  [{{< iconify simple-icons gimp >}}](https://www.gimp.org) [{{< iconify streamline-logos inkscape-logo-solid >}}](https://inkscape.org) [{{< iconify file-icons latex>}}](https://tug.org/mactex/mactex-download.html) [{{< iconify simple-icons quarto >}}](https://quarto.org) [{{< iconify file-icons textmate>}}](https://macromates.com)  [{{< iconify simple-icons revealdotjs >}}](https://revealjs.com) [{{< iconify mdi microsoft-office >}}](https://en.wikipedia.org/wiki/Microsoft_Office)
+
+:::

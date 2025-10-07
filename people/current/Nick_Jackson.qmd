@@ -1,0 +1,17 @@
+---
+title: "Nick Jackson"
+categories: ["PhD - Primary Advisee"]
+author: Since
+date: 2025-08-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+
+---
+
+
+

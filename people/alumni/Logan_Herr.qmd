@@ -1,0 +1,23 @@
+---
+title: "Logan Herr"
+categories: ["MEng - Primary Advisee"]
+date: 2025-08-08 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/Logan_Herr.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/Logan_Herr.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/logan-m-herr
+    - text: "![](https://flagcdn.com/us.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/United_States_of_America
+    - text: "![](https://flagcdn.com/us-oh.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Ohio
+
+---
+
+
+

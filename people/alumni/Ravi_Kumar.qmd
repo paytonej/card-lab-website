@@ -1,0 +1,75 @@
+---
+title: "Ravi Kumar"
+categories: ["MS - Primary Advisee"]
+date: 2024-12-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/ravi-kumar-sam
+    - text: "![](https://flagcdn.com/in.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Republic_of_India
+
+---
+
+
+# Thesis/Dissertation
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">R. Kumar, &#x201C;On The Relationship Between Valence Electron Concentration and Superconducting Properties of Refractory Complex Concentrated Alloys,&#x201D; MS Thesis, University of Cincinnati, Cincinnati, OH, USA, 2024. Accessed: May 11, 2025. [Online]. Available: http://rave.ohiolink.edu/etdc/view?acc_num=ucin1733838870033528</div>
+  </div>
+</div>
+```
+
+# Publications
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. T. Oriola, J. D. Maile, A. Nguyen, H. Do, R. Kumar, and E. J. Payton, &#x201C;Screening of Refractory High-Entropy Alloy Solidification Behavior Through Laser Glazing,&#x201D; <i>JOM</i>, vol. 77, pp. 7247&#x2013;7263, Aug. 2025, doi: 10.1007/s11837-025-07620-8.</div>
+  </div>
+</div>
+```
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Josyula, &#x201C;Fabricating Nitinol Microtubes via Gas-Phase Alloying: A Computational and Experimental Feasibility Study,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 04, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">R. Kumar, &#x201C;Thermal, Electrical, and Magnetic Properties of Multi-Principal Element Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[3]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, &#x201C;Effects of Laser Shock Peening Surface Modification on Oxidation Behavior of NbTi-X Refractory Complex Concentrated Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[4]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. T. Oriola, &#x201C;Additive manufacturing feasibility of MoNbTi Refractory Complex Concentrated Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[5]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, &#x201C;Laser Shock Peening Surface Modification Effects on Microstructure and Oxidation Behavior of NbTiCoCrNi Refractory Complex Concentrated Alloys,&#x201D; presented at the High Entropy Alloys 2023, Pittsburgh, PA, Nov. 13, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[6]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">R. Kumar, &#x201C;Effect of Nb on the Superconducting Properties of Mo-Ti-V-Based RCCAs,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[7]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">R. Kumar, &#x201C;SPG-9: Surface Color Relation to Alpha Case Formation in Ti-6Al- 4V,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[8]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">V. Oruganti, &#x201C;SPG-50: Phase field modelling of microtubes formation in NiTi shape memory alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+</div>
+```
+
+

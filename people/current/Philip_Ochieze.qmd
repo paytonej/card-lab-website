@@ -1,0 +1,69 @@
+---
+title: "Philip Ochieze"
+categories: ["PhD - Secondary Advisee"]
+author: Since
+date: 2024-01-01 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/ochieze-ugochukwu-philip-44256097
+    - text: "{{< iconify simple-icons orcid >}}"
+      url: https://orcid.org/0000-0003-0925-6240
+    - text: "{{< iconify academicons google-scholar >}}"
+      url: https://scholar.google.com/citations?user=QoU6EhUAAAAJ&hl=en
+    - text: "![](https://flagcdn.com/ng.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Federal_Republic_of_Nigeria
+
+---
+
+
+# Publications
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, N. Simpson, Z. Jestude, M. A. Steiner, and E. J. Payton, &#x201C;High-Temperature Oxidation and Thermal Expansion Behavior of NbTi&#x2013;X (X&#x2009;=&#x2009;5Co, 10Cr, 10Ni, 10CoCrNi) Refractory Medium Entropy Alloys,&#x201D; <i>Metall Mater Trans A</i>, vol. 56, pp. 4436&#x2013;4453, July 2025, doi: 10.1007/s11661-025-07911-4.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze <i>et al.</i>, &#x201C;Microstructural, oxidation, and mechanical behavior of NbTi-based refractory alloys with 5 to 10 pct Co, Cr, and Ni additions,&#x201D; <i>Metall Mater Trans A</i>, vol. 56, no. 4, pp. 1150&#x2013;1170, Apr. 2025, doi: 10.1007/s11661-025-07705-8.</div>
+  </div>
+</div>
+```
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Z. D. C. Miller, &#x201C;SPU-32: Development of a new CALPHAD database for the Fe-Ni-P system,&#x201D; presented at the MS&amp;T25: Materials Science &amp; Technology, Columbus, OH, USA, Sept. 30, 2025.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">S. Josyula, &#x201C;Fabricating Nitinol Microtubes via Gas-Phase Alloying: A Computational and Experimental Feasibility Study,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 04, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[3]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">R. Kumar, &#x201C;Thermal, Electrical, and Magnetic Properties of Multi-Principal Element Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[4]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, &#x201C;Effects of Laser Shock Peening Surface Modification on Oxidation Behavior of NbTi-X Refractory Complex Concentrated Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[5]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. T. Oriola, &#x201C;Additive manufacturing feasibility of MoNbTi Refractory Complex Concentrated Alloys,&#x201D; presented at the The Minerals, Metals, and Materials Society Fall Meeting at Materials Science and Technology, Columbus, OH, Oct. 03, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[6]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze, &#x201C;Laser Shock Peening Surface Modification Effects on Microstructure and Oxidation Behavior of NbTiCoCrNi Refractory Complex Concentrated Alloys,&#x201D; presented at the High Entropy Alloys 2023, Pittsburgh, PA, Nov. 13, 2023.</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[7]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. T. Oriola, &#x201C;Additive manufacturing feasibility of refractory high entropy alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 07, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+</div>
+```
+
+

@@ -1,0 +1,19 @@
+---
+title: "Ben Honeck"
+categories: ["BS - Undergraduate Independent Study Researcher (Part Time for Credit)"]
+date: 2024-12-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/ben-honeck
+
+---
+
+
+

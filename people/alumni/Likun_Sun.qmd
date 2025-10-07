@@ -1,0 +1,47 @@
+---
+title: "Likun Sun"
+categories: ["Postdoctoral Researcher"]
+date: 2024-09-01 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify simple-icons orcid >}}"
+      url: https://orcid.org/0009-0006-3353-6305
+
+---
+
+
+# Publications
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ochieze <i>et al.</i>, &#x201C;Microstructural, oxidation, and mechanical behavior of NbTi-based refractory alloys with 5 to 10 pct Co, Cr, and Ni additions,&#x201D; <i>Metall Mater Trans A</i>, vol. 56, no. 4, pp. 1150&#x2013;1170, Apr. 2025, doi: 10.1007/s11661-025-07705-8.</div>
+  </div>
+</div>
+```
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">E. J. Payton, &#x201C;Additive manufacturing feasibility of refractory high entropy alloys,&#x201D; presented at the 32nd International Materials Research Congress (IMRC2024), Cancun, Mexico, Aug. 20, 2024. [Online]. Available: https://www.mrs-mexico.org.mx/imrc2024</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">U. P. Ocheize, &#x201C;Influence of Co, Cr, and Ni Alloying Elements on the Microstructural, Oxidation and Mechanical behavior of NbTi-Based Alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[3]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. A. Oladipo, &#x201C;SPG-44: Effect of Texture on Residual Stress Induced during Surface Modification in Ti6Al4V Rolled Plate,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+</div>
+```
+
+

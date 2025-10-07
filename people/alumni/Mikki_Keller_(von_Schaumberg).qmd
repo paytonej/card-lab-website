@@ -1,0 +1,23 @@
+---
+title: "Mikki Keller (von Schaumberg)"
+categories: ["MEng - Primary Advisee"]
+date: 2023-08-15 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/michaela-von-schaumburg
+    - text: "![](https://flagcdn.com/us.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/United_States_of_America
+    - text: "![](https://flagcdn.com/us-fl.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Florida
+
+---
+
+
+

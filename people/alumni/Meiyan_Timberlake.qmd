@@ -1,0 +1,68 @@
+---
+title: "Meiyan Timberlake"
+categories: ["MS - Primary Advisee"]
+date: 2025-08-08 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/meiyan-timberlake
+    - text: "{{< iconify simple-icons orcid >}}"
+      url: https://orcid.org/0009-0009-3414-4700
+    - text: "![](https://flagcdn.com/us.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/United_States_of_America
+    - text: "![](https://flagcdn.com/us-oh.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Ohio
+    - text: "![](https://flagcdn.com/us-ca.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/California
+
+---
+
+
+# Thesis/Dissertation
+
+```{=html}
+```
+
+# Publications
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">K. S. Evans, D. M. Timberlake, P. Tyagi, V. M. Miller, and E. J. Payton, &#x201C;On the sources of discrepancies between grain size measurements,&#x201D; <i>Metallogr. Microstruct. Anal.</i>, vol. 13, no. 5, pp. 966&#x2013;982, Sept. 2024, doi: 10.1007/s13632-024-01124-8.</div>
+  </div>
+</div>
+```
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">D. M. Timberlake, &#x201C;SPU-23: On the Sources of Discrepancies between EBSD, SEM, and Optical Grain Size Measurements,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[2]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">A. A. Oladipo, &#x201C;SPG-44: Effect of Texture on Residual Stress Induced during Surface Modification in Ti6Al4V Rolled Plate,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+</div>
+```
+
+# Code & Datasets
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;"><i>mtex-grain-size</i>. Cincinnati, OH, USA: Zenodo, 2025. doi: 10.5281/ZENODO.16541961.</div>
+  </div>
+</div>
+```
+
+

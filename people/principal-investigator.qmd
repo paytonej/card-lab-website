@@ -1,0 +1,59 @@
+---
+title: "About the PI"
+categories: ["Principal Investigator"]
+date: 2022-08-13 00:00:00
+execute:
+  echo: false
+about:
+  template: trestles
+  image: files/site/Payton_Eric_2_crop.jpg
+  image-alt: "photograph of Prof Eric Payton taken at the University of Cincinnati in August 2022"
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/paytonej
+    - text: "{{< iconify simple-icons orcid >}}"
+      url: https://orcid.org/0000-0001-7478-9372
+    - text: "{{< iconify academicons google-scholar >}}"
+      url: https://scholar.google.com/citations?user=abYsKG8AAAAJ&hl=en
+    - text: "{{< iconify mdi github >}}"
+      url: https://github.com/paytonej
+    - text: "![](https://flagcdn.com/us.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/United_States_of_America
+    - text: "![](https://flagcdn.com/us-oh.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Ohio
+    - text: "![](https://flagcdn.com/us-ny.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/New_York_(state)
+    - text: "![](https://flagcdn.com/us-va.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Virginia
+    - text: "![](https://flagcdn.com/us-in.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Indiana
+    - text: "![](https://flagcdn.com/us-nd.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/North_Dakota
+    - text: "![](https://flagcdn.com/us-tx.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Texas
+    - text: "![](https://flagcdn.com/de.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Germany  
+
+jupyter: python3
+---
+
+:::{#contact}
+
+#### {{< iconify ic outline-email >}} &nbsp; paytonej@ucmail.uc.edu
+
+#### {{< iconify wpf phone-office >}} &nbsp; +1 (513) 556-0260
+
+#### {{< iconify material-symbols mobile-chat-rounded >}} &nbsp; +1 (513) 549-5346
+
+#### {{< fa map-location-dot >}} &nbsp; Department of Mechanical and Materials Engineering, 2901 Woodside Drive, Cincinnati, OH 45221-0072 USA
+
+:::
+
+**Dr. Eric Payton is the Principal Investigator for the Critical Alloy Research & Discovery Laboratory at the University of Cincinnati.**
+
+Dr. Payton’s laboratory addresses the sustainability of critical materials through fundamental research into alloy design, discovery, and processing, enabling design engineers to balance performance with responsible resource utilization. Employing state-of-the-art computational and quantitative characterization techniques, his group seeks to lend insights into microstructure evolution during processing and chemo-mechanical environmental interactions in service, then use this knowledge to develop practical tools for predicting material properties. Prior to joining the faculty of the University of Cincinnati in 2022, Dr. Payton served for five years as the Research Leader for the Metallic Materials and Processing Team at the Air Force Research Laboratory, Materials and Manufacturing Directorate. Before entering government service, he was an Assistant Professor of Materials Science and Engineering at the New York State College of Ceramics at Alfred University, and held post-doctoral positions at both Ruhr University in Bochum, Germany and the Federal Institute for Materials Research and Testing (BAM) in Berlin, Germany. He obtained his doctorate in Materials Science and Engineering from The Ohio State University. Dr. Payton’s colleagues suspect he would be a good addition to their trivia night team; however, his area of trivia mastery may be limited to turn-of-the century musicians. Dr. Payton is an enthusiastic advocate of scientific collaboration, structured programming, learner-centered pedagogy, and vegetables.
+
+The PI's complete list of publications (including those prior to establishing the CARD Lab) can be found at [{{< iconify academicons zotero-square >}} zotero.org/paytone](https://www.zotero.org/paytone "Zotero") or [{{< iconify simple-icons orcid >}} orcid.org/0000-0001-7478-9372](https://orcid.org/0000-0001-7478-9372 "ORCID").
+
+ 

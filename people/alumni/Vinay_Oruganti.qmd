@@ -1,0 +1,43 @@
+---
+title: "Vinay Oruganti"
+categories: ["MS - Primary Advisee"]
+date: 2025-08-08 00:00:00
+execute:
+  echo: false
+image: ../../files/photos/People/anon.jpg
+about:
+  template: trestles
+  image: ../../files/photos/People/anon.jpg
+  image-shape: round
+  links:
+    - text: "{{< iconify mdi linkedin >}}"
+      url: https://www.linkedin.com/in/vinay-o-47573819a
+    - text: "![](https://flagcdn.com/in.svg){width=0.25in}"
+      url: https://en.wikipedia.org/wiki/Republic_of_India
+
+---
+
+
+# Thesis/Dissertation
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">V. Oruganti, &#x201C;A Thermodynamic and Kinetic Modelling Study of {K}irkendall Porosity Formation in Binary Systems,&#x201D; MS Thesis, University of Cincinnati, Cincinnati, OH, USA, 2025. [Online]. Available: http://rave.ohiolink.edu/etdc/view?acc_num=ucin1758121287531617</div>
+  </div>
+</div>
+```
+
+# Presentations
+
+```{=html}
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em; text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">V. Oruganti, &#x201C;SPG-50: Phase field modelling of microtubes formation in NiTi shape memory alloys,&#x201D; presented at the MS&amp;T24: Materials Science &amp; Technology, Pittsburgh, PA, Oct. 08, 2024. [Online]. Available: https://www.matscitech.org/MST24</div>
+  </div>
+</div>
+```
+
+
